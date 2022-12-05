@@ -1,0 +1,2 @@
+0 * * * * python3 getJoke.py
+0 * * * * python3 snsProject.py
